@@ -33,7 +33,7 @@ Namun, semua fitur tersebut **sengaja dibangun dengan kode yang tidak aman** unt
 
 ---
 
-## 🐞 Kerentanan yang Telah Dipasang
+##  Kerentanan yang Telah Dipasang
 
 Berikut adalah celah keamanan yang telah diimplementasikan beserta lokasinya:
 
@@ -65,6 +65,7 @@ Berikut adalah celah keamanan yang telah diimplementasikan beserta lokasinya:
 # Eksperimen SQL Injection
 
 <img width="1366" height="768" alt="Screenshot at 2026-04-30 00-03-12" src="https://github.com/user-attachments/assets/8c38cc97-f1ea-447c-9f7b-fcb1e750f8fa" />
+
 <img width="1366" height="768" alt="Screenshot at 2026-04-30 00-03-23" src="https://github.com/user-attachments/assets/0c14d77b-61ed-4d7e-b559-dc3745535dcb" />
 
 
