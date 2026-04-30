@@ -1,0 +1,61 @@
+/* public/assets/css/style.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.card {
+    transition: transform 0.2s, box-shadow 0.2s;
+    border: none;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.jumbotron {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.jumbotron .btn-primary {
+    background-color: white;
+    color: #667eea;
+    border: none;
+}
+
+.jumbotron .btn-primary:hover {
+    background-color: #f8f9fa;
+    color: #764ba2;
+}
+
+.alert {
+    border-radius: 10px;
+    border: none;
+}
+
+footer {
+    background-color: #343a40;
+}
+
+footer a:hover {
+    color: #007bff !important;
+    text-decoration: none;
+}
